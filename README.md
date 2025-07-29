@@ -1,4 +1,7 @@
 # demo-repo
 this is our first git hub repo
-\n
+<br>
 this is to learn commit in git hub
+<br>
+Author - om dandge
+
